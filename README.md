@@ -14,7 +14,11 @@ pip install -r requirements.txt
 # Running the project
 
 ...
-python main.py
+Python Jupyter Notebook
+Data Collection
+Data Preprocessing
+Data Visualization
+Exploratory Data Analysis
 ...
 #Data Preprocessing
 - Use fred api key to get Federal Board of Revenue Interest Rate Data
