@@ -1,16 +1,16 @@
 Final Project
 #Dependencies
 
- numpy==1.21.5
- pandas==1.4.4
- matplotlib==3.5.2
- yfinance==0.1.87
- fredapi==0.5.0
- sklearn==1.0.2
- scipy==1.9.1
- seaborn==0.11.2
- cufflinks==0.17.3
- statsmodels==0.13.2
+numpy==1.21.5
+pandas==1.4.4
+matplotlib==3.5.2
+yfinance==0.1.87
+fredapi==0.5.0
+sklearn==1.0.2
+scipy==1.9.1
+seaborn==0.11.2
+cufflinks==0.17.3 
+statsmodels==0.13.2
 
 #Installation
 
@@ -49,7 +49,7 @@ Exploratory Data Analysis
 - I have made lineplots of different variables in the same plot to visualize the comparison between trends.
 - I have made interactive plots to see more detail of the data including growth and decline. I have tried to use more engaging colors to make the visualization more interpretable
 
-#Data Analysis
+# Data Analysis
 
 - Pearson Correlation b/w Interest Rate and Stock Market prices
 - Logistic Regression to predict increase in stock market at quarter end
@@ -58,9 +58,9 @@ Exploratory Data Analysis
 - Fitting ARMA on Apple Stock Prices Growth Rate
 - Fitting ARMA on Interest Rate Growth
 
-#Future Work
+# Future Work
 
 - More Advanced Forecasting Techniques
 - Include more historic data
 - Analyze trends at time of historic economic importance
-
+- Include more economic indicators data 
