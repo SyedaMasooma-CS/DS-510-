@@ -2,37 +2,36 @@
 
 # Dependencies
 
-numpy==1.21.5
-pandas==1.4.4
-matplotlib==3.5.2
-yfinance==0.1.87
-fredapi==0.5.0
-sklearn==1.0.2
-scipy==1.9.1
-seaborn==0.11.2
-cufflinks==0.17.3 
-statsmodels==0.13.2
+- numpy==1.21.5
+- pandas==1.4.4
+- matplotlib==3.5.2
+- yfinance==0.1.87
+- fredapi==0.5.0
+- sklearn==1.0.2
+- scipy==1.9.1
+- seaborn==0.11.2
+- cufflinks==0.17.3 
+- statsmodels==0.13.2
 
-#Installation
+# Installation
 
 ...
 pip install -r requirements.txt
 ...
 
-
 # Running the project
 
 ...
-Python Jupyter Notebook
-Final Code.ipynb
-Use:
-Cell->Run All
+- Python Jupyter Notebook
+- Final_Code.ipynb --> Cell->Run All
 
-# The notebook contains
-Data Collection
-Data Preprocessing
-Data Visualization
-Exploratory Data Analysis
+# The Notebook Contains
+
+- Data Collection
+- Data Preprocessing
+- Data Visualization
+- Exploratory Data Analysis
+- Time Series Analysis
 ...
 #Data Collection and Preprocessing
 - Used fred api key to get Federal Board of Revenue Interest Rate Data
