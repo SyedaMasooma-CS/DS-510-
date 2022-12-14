@@ -33,21 +33,26 @@ pip install -r requirements.txt
 - Exploratory Data Analysis
 - Time Series Analysis
 ...
-#Data Collection and Preprocessing
+# Data Collection and Preprocessing
 - Used fred api key to get Federal Board of Revenue Interest Rate Data
 - Used yfinance library to get stock market data 
 - Merge the files on the unique variable 'Date'
 - Get all the variables of interest in one dataframe for analysis
 
-# Methodoloy
+# Methodolgy
 - Exploratory Data Analysis
 - Statistical Modelling for Inferences on the Data
--
+- Time Series Analysis
+- Predictive Modelling Using Logistic Regression and SVC
+
 # Visualization
 - Since the data is timeseries and I need to look at the trends in data over time and relationship between trends of different variables, I have made mutilple plots.
 - These include line plots and scatter plot of individual variables over Date.
 - I have made lineplots of different variables in the same plot to visualize the comparison between trends.
 - I have made interactive plots to see more detail of the data including growth and decline. I have tried to use more engaging colors to make the visualization more interpretable
+- Autocorrelation Plots
+- Impulse Response Functions
+- Scatter Plots
 
 # Data Analysis
 
