@@ -57,3 +57,10 @@ Exploratory Data Analysis
 - Checking Autocorrelation of these series
 - Fitting ARMA on Apple Stock Prices Growth Rate
 - Fitting ARMA on Interest Rate Growth
+
+#Future Work
+
+- More Advanced Forecasting Techniques
+- Include more historic data
+- Analyze trends at time of historic economic importance
+
